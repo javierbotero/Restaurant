@@ -4,7 +4,7 @@ This project is built with ES6 class keyword, ES6 modules, and webpack. The main
 
 ## Live preview
 
-[Restaurant Page](https://raw.githack.com/javierbotero/Restaurant/feature/dist/index.html)
+[Restaurant Page](https://javierbotero.github.io/Restaurant/#)
 
 ![Screenshot app](https://res.cloudinary.com/enterprise/image/upload/v1603128841/assets_repos/Screenshot_from_2020-10-19_12-16-16_ngqr3f.png)
 
