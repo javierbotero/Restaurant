@@ -19,7 +19,7 @@ function greeting() {
   document.body.className = 'container-fluid';
   const myImage = document.createElement('div');
   myImage.classList += 'opening';
-  myImage.innerHTML = `<br><h2 class="text-white bg-dark p-3 w-50 text-center mx-auto">Casa Vieja Restaurant</h2>`;
+  myImage.innerHTML = '<br><h2 class="text-white bg-dark p-3 w-50 text-center mx-auto">Casa Vieja Restaurant</h2>';
   content.appendChild(myImage);
   content.innerHTML += `
   <div class='tabs-x tabs-above tabs-krajee'>
